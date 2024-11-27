@@ -1,1 +1,2 @@
 # JST-Mart-Dashboard-PowerBI
+   Developed an end-to-end data analysis solution using PowerBi, importing data from CSV files into PowerBi using Power Query Editor. Cleaned, transformed, and structured the data.Designed a robust data model, establishing relationships between tables for performance. Utilized DAX to create calculated fields and measures. Created Interactive dashboards and reports, conveying insights through charts and graphs. 
